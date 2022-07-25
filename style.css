@@ -6,3 +6,12 @@
     font-family: 'Raleway', sans-serif;
 
 }
+.fa-solid {
+    color: rgba(0, 0, 0, 0.7)
+}
+.hori-line {
+    display: block;
+    margin: 1rem 0;
+    width: 5rem;
+    background-color: #B8CD06;
+}
